@@ -21,6 +21,7 @@
 
 ## Upcoming events
 - Oviedo Brewing 4/20 at 7pm for 15 people
+- https://n.opn.tl/logAjw5y
 - Suggested description:
 > Come prepared with some ideas or just listen in. Lean Coffee is a quick Kanban style of organizing technical discussions for 10-15 people across many topics. We'll start discussing at voting on the topics by 7:15 and go until we run out (or we're past closing time.)
 > 
