@@ -1,0 +1,11 @@
+## Larger group (30-50 w/ presentations)
+- https://www.credoconduit.com/convening
+  - Waiting to hear back
+- Alternatives
+  - PowerDMS
+  - Full Sail
+  - Sight Plan
+  - City Hall
+  - Downtown Library
+  - Venture X
+  - Rollins
