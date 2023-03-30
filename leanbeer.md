@@ -22,11 +22,11 @@
 ## Upcoming events
 - Oviedo Brewing 4/20 at 7pm for 15 people
 - Suggested description:
-> Come prepared with some ideas or just listen in. Lean Coffee is a quick Kanban style of organizing technical discussions across many topics. We'll start discussing at voting on the topics by 7:15 and go until we run out of topics (or we're past closing time.)
+> Come prepared with some ideas or just listen in. Lean Coffee is a quick Kanban style of organizing technical discussions for 10-15 people across many topics. We'll start discussing at voting on the topics by 7:15 and go until we run out (or we're past closing time.)
 > 
 > All are welcome, whether you're currently working full-time in DevOps or are just passively curious.
 > 
-> No need to eat ahead of time as they have food there https://www.oviedobrewingco.com/current-beers/ (hyperlink says beers, but it shows food as well).
+> No need to eat ahead of time as they have food there: https://www.oviedobrewingco.com/current-beers/ (hyperlink says beers, but it shows food as well).
 
 ## Previous events (in case we have writer's block for a future event description)
 - https://www.meetup.com/orlando-devops/events/291892578/
