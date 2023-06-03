@@ -5,15 +5,15 @@
 ## Larger group 30-50 w/ presentations
 
 * https://www.credoconduit.com/convening
-  * Waiting to hear back
-* Alternatives
-  * PowerDMS
-  * Full Sail
-  * Sight Plan
-  * City Hall
-  * Downtown Library
-  * Venture X
-  * Rollins
+  * Work with ODevs
+ * PowerDMS
+ * Full Sail
+   * Cost Associated
+ * Sight Plan
+ * City Hall
+ * [Downtown Library](https://www.ocls.info/rooms-studios/latlon/28.568171,-81.346336/location/Orlando%20Public%20Library)
+ * Venture X
+ * Rollins
 
 ## DevOpsDays Location Ideas for 50 - 250
 
