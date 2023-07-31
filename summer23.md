@@ -15,7 +15,7 @@
 * Would we get a board seat
 * Can we send a survey to the membership (Have Survey Monkey?)
 
-### Mike to meet with Brian and Jacques
+### Mike Butler to meet with Brian and Jacques
 
 ## DevOps Meetups
 
@@ -27,7 +27,7 @@
   * Call for Speakers / Topics
 * Monthly Lean Coffee / Beer (Thursday - PM)
   * Rotate Location
-    * Lake Nona (August - Thursday 17th - 7 PM)
+    * Lake Nona (August - Thursday 17th - 7 PM) Boxi Park
     * Lake Mary (September - )
     * Winter Park area
     * Downtown
