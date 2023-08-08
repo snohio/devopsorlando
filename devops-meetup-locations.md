@@ -4,16 +4,19 @@
 
 ## Larger group 30-50 w/ presentations
 
-* https://www.credoconduit.com/convening
-  * Work with ODevs
- * PowerDMS
- * Full Sail
-   * Cost Associated
- * Sight Plan
- * City Hall
- * [Downtown Library](https://www.ocls.info/rooms-studios/latlon/28.568171,-81.346336/location/Orlando%20Public%20Library)
- * Venture X
- * Rollins
+* [Credo Conduit](https://www.credoconduit.com/convening)
+  * Work with ODevs to reserve.
+* PowerDMS
+* Full Sail
+  * Cost Associated
+* Sight Plan
+* City Hall
+* [Downtown Library](https://www.ocls.info/rooms-studios/latlon/28.568171,-81.346336/location/Orlando%20Public%20Library)
+* [Seminole County Library](https://seminolecounty.librarycalendar.com/reserve-room)
+  * Central Branch / Casselberry
+* Venture X
+* Rollins
+* [Wellborn](https://www.thewellbornorlando.com/) (Bar)
 
 ## DevOpsDays Location Ideas for 50 - 250
 
@@ -28,6 +31,9 @@
 * [The Wellview](https://thewellvue.com/)
   * Seats about 160 - 180 people in the main hall.
   * The big issue with this venue is that we cannot use it during the week DAYS.
+* [GuideWell Innovation](https://guidewellinnovation.com/book-an-event/)
+  * Interesting space with Main Presentation space in the round.
+  * Looks like about 150 - 200 people max in the main space.
 * Seminole State
 * UCF
 * Full Sail
