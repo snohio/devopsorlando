@@ -1,9 +1,15 @@
-# Ideas
+# DevOpsDays Orlando
 
 ## Goals
 
 * 150 - 200 would be a legitimate goal. I think we size to that.
 * Cost at no more than $159 (early bird 60+ days before) $199 (30 days before) $249 (full price)
+* I think $100k is probably a reasonable budget. That is made of the following
+  * 150 people at $200
+  * 2 Founding at $15000
+  * 1 Platinum at $10000
+  * 5 Gold at $5000
+  * 5 Silver at $3000
 
 ## Locations
 
@@ -12,8 +18,25 @@ Couple of options on the list here at this point.
 * [The Wave](https://www.lakenonawavehotel.com/orlando-event-venues/lake-nona-event-venues) in Lake Nona
 * [Winter Park Events Center](https://cityofwinterpark.org/departments/parks-recreation/library-events-center/reservations/) in Winter Park
   * Next to the Library. Parking could be an issue.
+  * Could be good for after hour space outside with a band and beverages
+  * Open Spaces might have to be spread to outside (weather depending) but that could be good to.
 * [Guidewell](https://guidewellinnovation.com/our-space/) in Lake Nona
   * This is an operating co-op so midweek during the day could be tricky.
+  * Looks like it would max at 200 people
+  * Main presentation area is "in the round" meaning speakers would be comfortable presenting in 360 degrees.
+* [Vanguard](https://www.thevanguard.live/venue)
+  * So, yeah, this is an electronic music club.
+  * It is Downtown!
+  * It has a large space to hold up to 2000
+  * Would need to check the cleanliness and make sure they have seating.
+  * There seems to be a lot of space in and around the main presentation area.
+  * Could be a high energy event.
+  * Not sure they they have Open Space area.
+  * They have food and beverage service.
+* [Marriott Orlando Downtown](https://www.marriott.com/en-us/hotels/mcodo-marriott-orlando-downtown/events/)
+  * I'm not too serious about this space because I don't really want to do it in a "normal" hotel convention space (the Wave is different)
+  * We should get pricing to have comparisons.
+  * It will have all we need.
 
 ## Date Options
 
@@ -45,7 +68,7 @@ UCF and OC / SC schools on break March 6 - 22
 
 ## Sponsor Ideas
 
-Need an idea of venue costs and how many spaces for 
+Need an idea of venue costs and how many spaces for true costing
 
 * Founding Sponsors - $15,000 (2)
   * $5,000 of which will go into funding for future years (if possible)
