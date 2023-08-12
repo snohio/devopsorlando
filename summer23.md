@@ -14,6 +14,9 @@
 
 * Would we get a board seat
 * Can we send a survey to the membership (Have Survey Monkey?)
+* Can we use their EventBrite for our events?
+* Can we bring our own sponsors?
+* Do they have a GitHub organization we can use?
 
 ### Mike Butler to meet with Brian and Jacques
 
