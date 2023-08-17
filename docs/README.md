@@ -10,6 +10,6 @@ More soon!
 
 ## Meetup Slide Decks
 
-[decks/august-23-lean-beer.html]
+[August 17th, 2023](decks/august-23-lean-beer.html)
 
 ## Thank you
