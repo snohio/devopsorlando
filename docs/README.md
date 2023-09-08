@@ -10,8 +10,11 @@ More soon!
 
 ## Meetup Slide Decks
 
-[August 17th, 2023](decks/august-23-lean-beer.html)
+* Lean Beer on [August 17th, 2023](decks/august-23-lean-beer.html)
+* Hackathon on [September 9th, 2023](decks/september-2023-hackathon.html)
 
 ## Thank you
 
-Todd - Thank You!
+Thanks for being a part of the Orlando DevOps Community Group!
+___
+Release `v.0.2.1`
