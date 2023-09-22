@@ -5,3 +5,7 @@ Tracking expenses for if/when we get sponsorship:
   - Order number: 09A52C0-0020
 - [StickerMule Sample stickers](https://www.stickermule.com/orders/R882801175?token=d2a5a16a1ed957f2) - $9.63 - Mike Buchoff
   - Order number: R882801175
+- [StickerMule 300 stickers](https://www.stickermule.com/orders/R062351460?token=75ed005ec890ada3) - $144.45 - Mike Buchoff
+  - Order number: R062351460
+  - Order date: Sept 22, 2023
+  - Expecting to receive on Oct 2, 2023
