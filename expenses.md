@@ -8,8 +8,6 @@ Tracking expenses for if/when we get sponsorship:
 - [StickerMule 300 stickers](https://www.stickermule.com/orders/R062351460?token=75ed005ec890ada3) - $144.45 - Mike Buchoff
   - Order number: R062351460
   - Order date: Sept 22, 2023
-  - Expecting to receive on Oct 2, 2023
+  - Received on Sept 30, 2023
 - [Fivver](https://www.fiverr.com/ei8htz/design-2-outstanding-logo?source=order_page_summary_gig_link_title&funnel=61ab522950134ee660307d3cfeb37c09) - $49.98 - Dan Crenshaw
   - Order number#FO61720505B82
-  - 
-  - 
