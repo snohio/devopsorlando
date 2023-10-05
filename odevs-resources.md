@@ -1,0 +1,7 @@
+- [GitHub Repo](https://github.com/OrlandoDevs/orlando-developers)
+- [PowerPoint event slides](https://drive.google.com/drive/folders/1sgSKhyotxzvBFIRLIEIqS57i3u9sneZT?usp=sharing)
+- [Meetup Forms folder](https://drive.google.com/drive/folders/1Ac4UdxOGa-2KoqHzKm9EsLO3_SsbP8WV)
+  - [ODevs Speaker Form](https://docs.google.com/forms/d/1svC9OsugW96qzjNaRsHplWYcGCmMm5HSNoc8Ymxj22U/edit) - About the speaker, not about the speech
+  - [Meetup Review](https://docs.google.com/forms/d/10oc6gtSLSweyXsQ9weGdPkDTcz3RzuhibKF7gVNmN3A/edit) - Very general "did you like it and why"-ish sort of questions
+  - [Join ODevs Slack](https://docs.google.com/forms/d/1sEs1Vo57XaaLcO7_jPluQZHB77J8XGi9VEvHG-ETI48/edit)
+  - [ODevs Volunteer Form](https://docs.google.com/forms/d/1bKW8L_Sw8k8n8vLBJG_Y6-VtDkDp-wDXdr2ywh8LE9k/edit)
