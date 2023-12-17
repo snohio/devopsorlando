@@ -13,6 +13,11 @@ More soon!
 * Lean Beer on [August 17th, 2023](decks/august-23-lean-beer.html)
 * Hackathon on [September 9th, 2023](decks/september-2023-hackathon.html)
 
+## Surveys
+
+* [2023 Annual survey](https://docs.google.com/forms/d/1fxfryb8sQAYBP86qinS1jTkErEUCvEsVK3I0d7-ScLA)
+* [Exit survey](https://forms.gle/obi5CngNTAuABsua6)
+
 ## Thank you
 
 Thanks for being a part of the Orlando DevOps Community Group!
