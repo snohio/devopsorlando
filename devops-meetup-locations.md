@@ -6,6 +6,7 @@
 
 * [Credo Conduit](https://www.credoconduit.com/convening)
   * Work with ODevs to reserve.
+  * Wifi pw is _21541466_. Note that it is ok to give this to a group of 10-15 people, but much past that, they'll need to tether.
 * PowerDMS
 * Full Sail
   * Cost Associated
