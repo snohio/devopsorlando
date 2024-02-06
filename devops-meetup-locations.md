@@ -28,6 +28,7 @@
   * Would require use of outside for open spaces
   * Should hold 250
   * Awesome place to do an outdoor concert for the cocktail reception
+  * Best [Floor Plan](https://www.architecturalrecord.com/ext/resources/Issues/2022/03-March/Winter-Park-Library-and-Events-Center-10.jpg) that I could find
 * [The Wellview](https://thewellvue.com/)
   * Seats about 160 - 180 people in the main hall.
   * The big issue with this venue is that we cannot use it during the week DAYS.
