@@ -13,7 +13,7 @@ assignees: ''
 
 As an organizer of the Orlando DevOps Community Group, I would like to have organized, scheduled, and posted the Meetup Event on *DATE HERE* in **LOCATION HERE** so that we can start to move the monthly lean coffee / beer events around.
 
-## Synapsis
+## Synopsis
 
 What this months meeting is about (or Lean Coffee)
 
