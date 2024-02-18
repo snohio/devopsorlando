@@ -1,7 +1,7 @@
 ---
 name: Meetup Event Template
-about: Create a Monthly Meeting agenda with some basic topics to cover.
-title: MONTH, DAY, YEAR - Meetup Event TYPE
+about: Create a group event.
+title: MONTH DAY, YEAR - SHORT EVENT DESCRIPTION
 labels: Meetup Event
 assignees: ''
 
