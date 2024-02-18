@@ -19,7 +19,7 @@ What this months meeting is about (or Lean Coffee)
 
 ## Tasks
 
-- [ ] Write up the Synapsis
+- [ ] Write up the synopsis
 - [ ] Find the Location ex. [Credo Conduit](https://www.google.com/maps/place/The+Conduit/)
 - [ ] Create the Event in Meetup. [Meetup Event Link](https://www.meetup.com/Orlando-DevOps/events/294924796)
 - [ ] Have Brian post in [EventBrite](https://www.eventbrite.com/o/orlando-devs-15266001174)
