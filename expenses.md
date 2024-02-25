@@ -8,6 +8,7 @@ Tracking expenses for if/when we get sponsorship:
 | StickerMule Sample stickers                     | $9.63   | Mike Buchoff | R882801175    |               |                           |
 | StickerMule 300 stickers                        | $144.45 | Mike Buchoff | R062351460    | Sept 22, 2023 | Received on Sept 30, 2023 |
 | Fivver                                          | $49.98  | Dan Crenshaw | FO61720505B82 |
+| T-shirt                                         | $15.04  | Mike Buchoff | PF103591488   | Feb 25, 2024  |
 
 ## Links
 
