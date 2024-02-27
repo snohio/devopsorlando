@@ -23,8 +23,8 @@ What this months meeting is about (or Lean Coffee)
 - [ ] Find the Location ex. [Credo Conduit](https://www.google.com/maps/place/The+Conduit/)
 - [ ] Create the Event in Meetup. [Meetup Event Link](https://www.meetup.com/Orlando-DevOps/events/294924796)
 - [ ] Have Brian post in [EventBrite](https://www.eventbrite.com/o/orlando-devs-15266001174)
-- [ ] Promote on LinkedIn [Group Post](https://www.linkedin.com/feed/update/urn:li:activity:7097321959037751296)
-- [ ] Publish on ODevs Slack [#Meetup](https://orlandodevs.slack.com/archives/C03E3J2BE)
+- [ ] Promote on LinkedIn two weeks before the event [Group Post](https://www.linkedin.com/feed/update/urn:li:activity:7097321959037751296)
+- [ ] Publish on ODevs Slack two weeks before the event [#Meetup](https://orlandodevs.slack.com/archives/C03E3J2BE)
 - [ ] Order Food
 - [ ] Gather and Bring Materials
 - [ ] Create Slide Deck for ODevs Requirements
