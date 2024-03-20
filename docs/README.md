@@ -18,6 +18,10 @@ More soon!
 
 * [2023 Annual survey](https://docs.google.com/forms/d/1fxfryb8sQAYBP86qinS1jTkErEUCvEsVK3I0d7-ScLA)
 
+## Swag
+- [Dark Orlando DevOps T-shirts](https://www.printful.com/product-template/57412421/52d2a145108a82ce89938575eeb1860d)
+- [Light Orlando DevOps T-shirts](https://www.printful.com/product-template/65691517/513c671a894c5c438a88b60e17dd45b0)
+
 ## Thank you
 
 Thanks for being a part of the Orlando DevOps Community Group!
