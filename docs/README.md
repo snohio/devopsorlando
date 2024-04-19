@@ -8,6 +8,10 @@ Welcome to the quick and dirty Github Pages for Orlando DevOps Community group. 
 
 More soon!
 
+## Events
+
+* April 24th, 2024 - Preparing for your Next Devops Role [More Info](./events/skillup.md)
+
 ## Meetup Slide Decks
 
 * Lean Beer on [August 17th, 2023](decks/august-23-lean-beer.html)
@@ -22,4 +26,4 @@ More soon!
 
 Thanks for being a part of the Orlando DevOps Community Group!
 ___
-Release `v.0.3.1`
+Release `v.0.4.1`
