@@ -18,6 +18,12 @@
 * Venture X
 * Rollins
 * [Wellborn](https://www.thewellbornorlando.com/) (Bar)
+* [Winter Park Public Library](https://www.winterparklibrary.org/)
+  * Note that our rental/reservation would have to end by a half-hour before closing (8:30pm on a Wednesday evening)
+  * With our 501c3 status, renting the [Edyth Bush Theater](https://www.winterparklibrary.org/rent-room) would be $225/hour or free if we:
+    * Request the room 3 months out
+    * Allow the event to be public (which all of our events are)
+    * Fill out [this form](https://www.winterparklibrary.org/suggest-a-class) and get approved.
 
 ## DevOpsDays Location Ideas for 50 - 250
 
