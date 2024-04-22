@@ -29,4 +29,26 @@ Would like to talk about Community
 * How do you see AI changing the jobs roles?
 * Are you seeing applicants using AI for their resume?
   * How do you 
+
+## Greg Brown
+
+* Tell me a little bit about your journey.
+* What is Talent Sourcing
+* How does someone successfully engage with a recruiter
+* What is the market like right now?
+* How do you see AI changing the jobs roles?
+
+## Milan Landaverde
+
+* Tell me about your Journey
+* Taking time - What you did when in between position.
+* Certs versus Open Source Contribution
+* How did that help you get your NVIDIA job
+* What is the difference between working at a startup vs larger companies
+* Getting involved in community
+* *What technologies are you using and feel are important in the DevOps landscape*
+
+## Round 
+
+* Where do you think DevOps / Cloud & Platform Engineering / SRE
 * 
