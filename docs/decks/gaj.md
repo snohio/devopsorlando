@@ -1,55 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Orlando DevOps - Preparing for your next DevOps Role</title>
-    <meta charset="utf-8">
-    <style>
-        @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-        @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,400italic);
-        @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-        @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700,400italic);
-  
-        body { font-family: 'Inconsolata'; }
-        h1 {
-          font-family: 'Roboto Slab';
-          font-weight: normal;
-          text-align: center;
-        }
-        h2, h3 {
-          font-family: 'Roboto Slab';
-          font-weight: normal;
-        }
-        h4 {
-            font-family: 'Yanone Kaffeesatz';
-            font-size: small;
-            text-align: left;
-            font-weight: normal;
-        }
-        .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-        .foo {
-          background: hsl(0, 0%, 15%);
-          background-color: #d4f3ff;
-          
-        }
-        .presenter {
-          h3, h4 { font-family: 'Inconsolata';}
-        }
-        .thanks {
-          body { font-family 'Yanone Kaffeesatz'; }
-        }
-        .center {
-          margin-left: auto;
-          margin-right: auto;
-        }
-    </style>
-  </head>
-  <body>
-    <textarea id="source">
-
-layout: true
----
-class: center
-<img src="https://raw.githubusercontent.com/snohio/devopsorlando/main/docs/assets/OrlandoDevOps2-04.png" width="580">
 ## Preparing for your next<br>DevOps Role
 ### ODO Interview Series
 #### An Orlando Devs Community Group
@@ -209,7 +157,7 @@ class: foo, presenter
 <br><br>
 ### Senior Cloud Platform Software Engineer
 <br><br><br><br>
-#### Milan is a Senior Cloud Platform Engineer at NVIDIA, focusing on developer platforms & cloud enablement. He previously worked at VMware in cloud native services as well several infrastructure startups. Over the past decade, he has contributed to open source projects in the Kubernetes, Rust & eBPF ecosystems. He is also one of the core organizers of the Orlando DevOps Community Group.
+#### Milan is a Senior Cloud Platform Engineer at NVIDIA, focusing on developer platforms & cloud enablement. Over the past decade, he has contributed to open source projects in the Kubernetes, Rust & eBPF ecosystems. He is also one of the core organizers of the Orlando DevOps Community Group.
 ???
 NOTES: The Path from Student to Successful DevOps / Platform Engineer
 
@@ -306,18 +254,3 @@ Thanks again to our Sponsors and to Rollins College for Hosting!
 
 You are welcome to meet us at The Ravenous Pig for more discourse.
 <img src="https://the32789.com/wp-content/uploads/2020/11/the32789-Ravenous-Pig-0370-1600x1067.jpg" width="300">
----
-class: center
-# Event Survey
-<img src="../assets/qr/0424-get-a-job-survey.png" alt="Get a Job Survey" width="500">
-???
-On your way out the door, please scan this and take our short 60 second survey. And I'll see you at the Ravenous Pig!
-
-</textarea>
-<script src="https://remarkjs.com/downloads/remark-latest.min.js">
-</script>
-<script>
-  var slideshow = remark.create();
-</script>
-</body>
-</html>
