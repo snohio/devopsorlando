@@ -6,7 +6,9 @@ Welcome to the quick and dirty Github Pages for Orlando DevOps Community group. 
 
 ## Code of Conduct
 
-More soon!
+This code of conduct outlines our expectations for participants within the Orlando Devs community (relevant to both our Slack and Meetup), as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+
+[Official ODevs Code of Conduct](https://orlandodevs.com/code-of-conduct/)
 
 ## Upcoming Events
 
