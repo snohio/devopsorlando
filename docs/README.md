@@ -16,7 +16,7 @@ This code of conduct outlines our expectations for participants within the Orlan
 
 ## Meetup Slide Decks
 
-* Preparing for your next DevOps Role on [April 23th, 2024](decks/2024-04-24-get-a-job.html)
+* Preparing for your next DevOps Role on [April 24th, 2024](decks/2024-04-24-get-a-job.html)
 * Lean Green DevOps on [February 13th, 2024](decks/2024-02-13-Lean-Green-DevOps.html)
 * Hackathon on [September 9th, 2023](decks/september-2023-hackathon.html)
 * Lean Beer on [August 17th, 2023](decks/august-23-lean-beer.html)
@@ -34,4 +34,4 @@ This code of conduct outlines our expectations for participants within the Orlan
 
 Thanks for being a part of the Orlando DevOps Community Group!
 ___
-Release `v.0.4.1`
+Release `v.0.4.3`
