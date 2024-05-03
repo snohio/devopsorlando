@@ -69,6 +69,23 @@ class: foo
 ???
 Notes:
 ---
+class: foo
+### If you have not done this already, take a picture of this slide with your phone, tune out the remainder of this presentation and begin working on this:
+- Head to https://azure.microsoft.com/ and create a free account. You will need to give them your credit card number to get started.
+
+- Install the **Azure CLI** (Google it or head to https://learn.microsoft.com/en-us/cli/azure/)
+
+- To see if you succeeded, run `az account show` from the command line. If it says you need to log in, run `az login` and try again. On success, you should see something similar to what I was shown:
+  ```
+  {
+    "environmentName": "AzureCloud",
+    "homeTenantId": "7e76db18-1eed-4eb7-a1eb-f55795485f9a",
+    "id": "23119635-4668-4bee-a613-24fdd1634eee",
+    ...
+  }
+  ```
+
+---
 class: foo, center
 ### Thanks to our ODevs Sponsors
 **BlueWave Resource Partners: Recruitment, Staffing, Headhunting Agency**
@@ -241,6 +258,31 @@ class: foo
   - You may have issues in one prod environment that isn't in others
   - You need to repeat monotonous steps once per prod environment, potential for human error
 ???
+---
+
+class: foo
+##Why do we need IAC, an example
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+###Infrastructure as Code (IAC) is the solution.
+???
+---
+
+class: foo
+###Difference between IaC tools
+- ###Provisioning
+  - Terraform/OpenTofu (declarative), has state-management
+  - Pulomi (imperative)
+  - CloudFormations (declarative)
+  - vRealize Automation (vRA, declarative) and vRealize Orchestrator (vRO, imperative)
+- ###Configuration Management
+  - Ansible (declarative, push)
+  - Puppet (declarative, pull)
+  - Chef (declarative, but allows imperiative for custom steps, pull)
 ---
 <img src="https://live.staticflickr.com/3579/3534506648_8d0d0f5fb6_b.jpg" width="750" class="center">
 ???
