@@ -251,12 +251,13 @@ class: foo
 
 class: foo
 ##Why do we need IAC, an example
-<br>
 ###If you have multiple dev/test/prod environments (geographical regions, for example), the problem grows exponentially
   - You have to test different environments more thoroughly to gain confidence in them
   - The testing in the test environment may succeed when the same steps in prod do not
   - You may have issues in one prod environment that isn't in others
   - You need to repeat monotonous steps once per prod environment, potential for human error
+
+###If you add new environments, you have additional problems.
 ???
 ---
 
@@ -284,29 +285,22 @@ class: foo
   - Puppet (declarative, pull)
   - Chef (declarative, but allows imperiative for custom steps, pull)
 ---
-<img src="https://live.staticflickr.com/3579/3534506648_8d0d0f5fb6_b.jpg" width="750" class="center">
-???
-Demo
----
-class: center, foo
-# How to find me
-<br><br>
-<img src="https://raw.githubusercontent.com/snohio/inspec-presentation/main/assets/linqapp.jpg" align="left" align="left" width="300" hspace="50">
-<img src="https://raw.githubusercontent.com/snohio/inspec-presentation/main/assets/myphoto-socialbook-440.png" align="right" width="300")>
-<br> <br> <br> <br> <br> <br> <br>
-<br> <br> <br> <br>
-[email](mailto://snohio@gmail.com) snohio@gmail.com<br>
-[linkedin](https://www.linkedin.com/in/mike-butler-6401634/)<br>
-Mike Butler on Chef Community Slack<br><br>
-Linq App - links to socials and to schedule a DevOps Consult.<br>
 
-???
-- So, as you can see, almost everything can be done as Code
-- Scan the LinqApp Code 
----
-class: foo, center
-<img src="https://raw.githubusercontent.com/snohio/inspec-presentation/main/assets/odo-flyer-occ.png" width="800">
-
+class: foo
+#What are we doing today?
+- Clone [my repo](https://github.com/mbuchoff/devops-vanilla-example)
+- [Download/install OpenTofu](https://opentofu.org/docs/intro/install/) (or Teraform, all good)
+- Run Tofu
+  ```
+  cd tofu
+  tofu init
+  tofu apply
+  ```
+- Confirm in Azure Portal that your resources were actually created.
+- Extra credit (out of scope today):
+  - Generate scaffolding sql script: `./2-efcore.ps1`
+  - Run the scaffolding script: `./3-apply-migration-script.ps1`
+  - Fork my repo and set up GitHub actions.
 
 </textarea>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js">
