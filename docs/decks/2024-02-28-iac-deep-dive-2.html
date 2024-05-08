@@ -71,11 +71,13 @@ Notes:
 ---
 class: foo
 ### If you have not done this already, take a picture of this slide with your phone, tune out the remainder of this presentation and begin working on this:
-- Head to https://azure.microsoft.com/ and create a free account. You will need to give them your credit card number to get started.
+- Head to https://azure.microsoft.com/ and create a free account.
 
-- Install the **Azure CLI** (Google it or head to https://learn.microsoft.com/en-us/cli/azure/)
+- Install the **Azure CLI** - https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+  - Windows: `winget install -e --id Microsoft.AzureCLI`
+  - Mac: `brew update && brew install azure-cli`
 
-- To see if you succeeded, run `az account show` from the command line. If it says you need to log in, run `az login` and try again. On success, you should see something similar to what I was shown:
+- Link your Azure CLI with your private Azure environment. You can confirm this by typing `az account show`. If it says you need to log in, run `az login` and try again. On success, you should see something similar to what I was shown:
   ```
   {
     "environmentName": "AzureCloud",
