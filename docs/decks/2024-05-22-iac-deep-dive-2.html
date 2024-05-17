@@ -157,20 +157,6 @@ class: foo, center
 <img height="75" src="https://thumbprint.com/wp-content/uploads/2024/04/tp_horizontal_fullcolor_RGB-1.png">
 ---
 
-<img src="https://www.picpedia.org/handwriting/images/agenda.jpg" class="center" width="500">
-<br>
-* 6:30 - Gathering and BBQ Plating!
-* 7:00 - Official Welcoming Notes
-* 7:05 - This slide right here!
-* 7:10 - Compliance and Platform Standards Presentation
-* 7:30 - Demonstration of Chef applying STIG Compliance Profile and Remediation Content
-* 8:00 - Open Q & A and Deep Dive
-* 8:30 - Wrap up, Survey Link, and Socializing
-* 9:00 - Lock Up / Ivanhoe Park Brewing?
-???
-TODO
----
-
 class: foo
 ##Why do we need IAC, an example
 <br>
@@ -290,19 +276,25 @@ class: foo
 
 class: foo
 #What are we doing today?
-- Download WinGet - https://github.com/microsoft/winget-cli/releases
-- Install Git - winget install --id Git.Git -e --source winget
+- If you don't already have WinGet, download it - https://github.com/microsoft/winget-cli/releases
+- Install Git - `winget install --id Git.Git -e --source winget`
 - Prereq to install Tofu - For verification - https://gnupg.org/download/index.html
 - Instructions to install Tofu (https://opentofu.org/docs/intro/install/standalone/)
 - Restart terminal after installing Git
-- Clone [my repo](https://github.com/mbuchoff/devops-vanilla-example) - `git clone https://github.com/mbuchoff/devops-vanilla-example`
 - [Download/install OpenTofu](https://opentofu.org/docs/intro/install/) (or Teraform, all good)
+
+---
+class: foo
+#What are we doing today?
+- Clone [my repo](https://github.com/mbuchoff/devops-vanilla-example) - `git clone https://github.com/mbuchoff/devops-vanilla-example`
 - `cd devops-vanilla-example\tofu`
+- `./1 - createRemoteState.ps1`
+- `./2 - getArmSasKey.ps1`
+- `./3 - tofuInit.ps1`
+- `tofu workspace new dev`
+- `tofu apply`
 
-#TODO run scripts 1, 2, and 3
-
-tofu workspace new dev
-tofu apply
+If it works, you now have IAC!
 
 - Extra credit (out of scope today):
   - Generate scaffolding sql script: `./2-efcore.ps1`
