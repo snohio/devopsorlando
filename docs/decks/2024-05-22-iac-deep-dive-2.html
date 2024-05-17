@@ -290,15 +290,20 @@ class: foo
 
 class: foo
 #What are we doing today?
-- Clone [my repo](https://github.com/mbuchoff/devops-vanilla-example)
+- Download WinGet - https://github.com/microsoft/winget-cli/releases
+- Install Git - winget install --id Git.Git -e --source winget
+- Prereq to install Tofu - For verification - https://gnupg.org/download/index.html
+- Instructions to install Tofu (https://opentofu.org/docs/intro/install/standalone/)
+- Restart terminal after installing Git
+- Clone [my repo](https://github.com/mbuchoff/devops-vanilla-example) - `git clone https://github.com/mbuchoff/devops-vanilla-example`
 - [Download/install OpenTofu](https://opentofu.org/docs/intro/install/) (or Teraform, all good)
-- Run Tofu
-  ```
-  cd tofu
-  tofu init
-  tofu apply
-  ```
-- Confirm in Azure Portal that your resources were actually created.
+- `cd devops-vanilla-example\tofu`
+
+#TODO run scripts 1, 2, and 3
+
+tofu workspace new dev
+tofu apply
+
 - Extra credit (out of scope today):
   - Generate scaffolding sql script: `./2-efcore.ps1`
   - Run the scaffolding script: `./3-apply-migration-script.ps1`
