@@ -279,13 +279,9 @@ class: foo
 - If you don't already have WinGet, download it - https://github.com/microsoft/winget-cli/releases
 - Install Git - `winget install --id Git.Git -e --source winget`
 - Prereq to install Tofu - For verification - https://gnupg.org/download/index.html
-- Instructions to install Tofu (https://opentofu.org/docs/intro/install/standalone/)
+- Install OpenTofu - https://opentofu.org/docs/intro/install/standalone/
 - Restart terminal after installing Git
-- [Download/install OpenTofu](https://opentofu.org/docs/intro/install/) (or Teraform, all good)
-
----
-class: foo
-#What are we doing today?
+<br><br>
 - Clone [my repo](https://github.com/mbuchoff/devops-vanilla-example) - `git clone https://github.com/mbuchoff/devops-vanilla-example`
 - `cd devops-vanilla-example\tofu`
 - `./1 - createRemoteState.ps1`
@@ -293,6 +289,10 @@ class: foo
 - `./3 - tofuInit.ps1`
 - `tofu workspace new dev`
 - `tofu apply`
+
+---
+class: foo
+#What are we doing today?
 
 If it works, you now have IAC!
 
