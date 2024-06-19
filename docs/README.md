@@ -16,11 +16,14 @@ This code of conduct outlines our expectations for participants within the Orlan
 
 ## Meetup Slide Decks
 
+* Open Source Saturday [June 22nd, 2024](decks/2024-06-22-open-source-saturday.html)
+* IAC Deep Dive - Terraform / OpenTofu [May 22nd, 2024](decks/2024-05-22-iac-deep-dive-2.html)
 * Preparing for your next DevOps Role on [April 24th, 2024](decks/2024-04-24-get-a-job.html)
+* IAC Deep Dive - Configuration Management [February, 28 2024](decks/2024-02-28-iac-deep-dive-1.html)
 * Lean Green DevOps on [February 13th, 2024](decks/2024-02-13-Lean-Green-DevOps.html)
 * Hackathon on [September 9th, 2023](decks/september-2023-hackathon.html)
 * Lean Beer on [August 17th, 2023](decks/august-23-lean-beer.html)
-  
+
 ## Surveys
 
 * [2024 Semi-Annual survey](https://docs.google.com/forms/d/1fxfryb8sQAYBP86qinS1jTkErEUCvEsVK3I0d7-ScLA)
