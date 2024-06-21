@@ -8,7 +8,7 @@
         @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,400italic);
         @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
         @import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700,400italic);
-  
+
         body { font-family: 'Inconsolata'; }
         h1 {
           font-family: 'Roboto Slab';
@@ -59,11 +59,11 @@ class: foo
 ### Our open source community strives to:
 
 #### Be friendly and patient.
-#### Be welcoming: We strive to be a community that welcomes and supports people of all backgrounds and identities. 
+#### Be welcoming: We strive to be a community that welcomes and supports people of all backgrounds and identities.
 #### Be considerate: Your actions (and words) affect users and colleagues, and you should take those consequences into account. Remember that we’re a very diverse community, so you might not be communicating in someone else’s primary language.
 #### Be respectful: Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
 #### Be careful in the words that we choose: we are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable.
-#### Try to understand why we disagree: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. 
+#### Try to understand why we disagree: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively.
 
 ???
 Notes:
@@ -138,101 +138,96 @@ class: foo, center
 ---
 <img src="https://www.picpedia.org/handwriting/images/agenda.jpg" class="center" width="500">
 <br>
-10:00 am - Official Welcoming <br>
-10:15 am - Open Source Contribution Primer (Felipe & Milan)<br>
-10:45 am - Q & A<br>
-11:00 am - Let the Contributions Begin<br>
-12:00 pm - Vote on Lunch<br>
- 3:00 pm - Contributions Stand Up<br>
- 4:00 pm - Wrap up, Thank You, and Survey Link<br>
+<pre>
+10:00 am - Official Welcoming
+10:15 am - Open Source Contribution Primer
+10:45 am - Q & A
+11:00 am - Let the Contributions Begin
+12:00 pm - Vote on Lunch
+ 3:00 pm - Contributions Stand Up
+ 4:00 pm - Wrap up, Thank You, and Survey Link
+</pre>
 ???
 NOTES:
 ---
-# Open Source Contribution Primer
+# What is Open Source?
+
+<img src="../assets/oss-saturday/oss-tree.png" width="350" class="center">
+
+### OSS is software that is publicly available to read & modify
+
 ???
 NOTES:
+- What is Open Source? How is it important?
+  - Minor history intro to open source
+  - Software licenses
+- Why contribute to Open Source? Career benefits [Milan] & community building [Felipe]
+  - Everything you do is public. Be careful
+  - Might have to develop a thick skin
+  - It's a learning process. Everyone makes mistakes
+- Experience contributing to Open Source: GitHub-example (??) [Milan]
+- Experience contributing to Open Source: Linux kernel [Felipe]
+- How to find a good first issue on a popular Github project: Kubernetes, OpenTofu
+- Showcasing examples of projects to contribute today: Azote, ??, ??
 ---
-EXAMPLES ON THE NEXT FEW SLIDES
+# What's it like to contribute to Open Source?
+
+<div class="center">
+  <img src="../assets/oss-saturday/github-logo.png" width="350">
+  <img src="../assets/oss-saturday/kernel-penguin.jpeg" width="150">
+</div>
+
 ???
+NOTES:
+- Talk about our experience with GitHub projects & the Linux Kernel
+- Links to Milan's previous contributions as example:
+  - https://github.com/rust-lang/nomicon/pull/254 (docs example)
+  - https://github.com/rust-lang/rustup/pull/2839 (javascript example)
+  - https://github.com/rust-lang/rust/issues/85410 (example of length of time)
 ---
-class: foo, presenter
-## Dan Myers - Rollins College
-<img src="https://cdn.sanity.io/images/qe2ul2l0/production/ff7d7d4ef34697f276b39c84d7b1e96e06e7132a-4000x2666.jpg?w=300&q=70&fit=max&auto=format&dpr=1.5" alt="Dan Myers" align="left" hspace="50">
-<br>
-### PhD and Assistant Professor of Computer Science
-<br>
-#### Dan S. Myers, Ph.D., is an Associate Professor of Computer Science at Rollins College in Orlando, Florida. His research interests lie in computer performance modeling and queueing theory12. Dr. Myers received his Ph.D. in Computer Sciences from the University of Wisconsin-Madison.
-#### In addition to his academic pursuits, Dr. Myers has a reputation for his dad jokes among his students. As one computer science major aptly put it, “Dr. Myers has two specialties: computer performance modeling and dad jokes” 3. It’s always refreshing to have a professor who can balance serious research with a good sense of humor!
-#### If you're interested in learning more about the Computer Science program at Rollins College, you can explore the major in Computer Science or the minor in Data Analytics. Dr. Myers is actively involved in teaching and mentoring students in these fields, and his expertise contributes to the vibrant academic community at Rollins College.
+# Searching for a good first issue
+
+<img src="../assets/oss-saturday/oss-docs.webp" width="500" class="center">
+
 ???
-* Introduce Dan Myers
-* Dan talks about Rollins, the building, and parking validation.
-* Mike grabs second Mike
-* Dan Introduces Mike Butler
-* Mike asks Dan a couple of questions before own introduction
+NOTES:
+- Contributing to docs
+- VSCode plugins?
+- GitHub labels
+- Some projects don't use GitHub and it takes a bit of digging
+- Some projects have whole structures of their community that you have to navigate (Kubernetes)
+- OpenTofu
 ---
-class: foo, presenter
-## Mike Butler - Progress Chef
-<img src="../assets/mike-butler-speaker.jpg" align="left" width="300" hspace="50">
-<br>
-### DevOps Enthusiast, Space Nerd, and Senior Sales Engineer
-<br><br><br>
-#### DevOps Enthusiast since 2016, space nerd and currently Sr. Sales Engineer at Progress for Chef Software. Mike has seen all sides of the Coded Enterprise, being the product owner for Chef at a very large healthcare organization. It is always a challenge to help application and OS support teams to understand “shifting left” or better local development, local testing, using a source code repository for code and helping to identify and track work. Treating Everything as Code helps drive DevOps for n00bs, it certainly helped him!
+# First projects
+
+### Piotr Miller - NWG Shell
+
+* https://nwg-piotr.github.io/nwg-shell/azote
+* https://github.com/nwg-piotr/azote
+
+### OpenTofu
+
+* https://github.com/opentofu/opentofu/labels/good%20first%20issue
+
+### Kubernetes
+* https://www.kubernetes.dev/
+
+* https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools/labels/good-first-issue
+
 ???
-NOTES: (5 minutes)
-
-* Thanks Dan! So before we jump in and to give folks a bit of a taste for what's to come this evening, I have a couple of questions for you.
-* Tell me a little bit about the Computer Science program here at Rollins.
-* What are some of the changes Rollins has made to modernize it's programs with the introduction of DevOps and Cloud & Platform Engineering?
-* What do you see coming with the latest advances in AI? How is that changing the programs here at Rollins?
-
-MY BIO (5 minutes)
-
-* So, Hi there! My name is Mike Butler. I am a Solution Architect at Progress Chef. Ask me another time about being a Solution Architect or Chef, as a few folks here know, I can drone on for hours.
-* Prior to working at Progress, I was a Sr. Manager at Optum which held the corporate IT platforms for all of UnitedHealth Group which included Optum and United Healthcare. I was there for 21 years, and the last ten I spend in a leadership position and have interviewed and hired my fair share of people across the globe.
-* The last 6 years, I ran a team called DevOps Enablement Services where we primarily managed the Chef platform and Community of Practice. I had the fortune of building that team from scratch and brought folks will all sorts of backgrounds together to deliver a tools with a DevOps experience.
-
-* So, I've said DevOps a lot there. And this is an Orlando DevOps Community Group Meetup.
-* How many people think they have an understand of or can define DevOps? 
-* Who is new to this terminology?
-* Ok, so here is my definition of DevOps.
-* I like to define it as a set of practices and principles that allow businesses to accelerate the delivery of products and services. There are a lot of things that DevOps is NOT. 
-* It is NOT a job, although that is in contrary to the topic. 
-* It is NOT a team, although I will often mention it that way.
-* It is NOT a CI/CD pipeline, although many believe it to be.
-* And it is NOT a Product, although Microsoft and others like to sell it that way.
-* Well, actually it is a little bit all of those things and the term gets co-opted in that and more.
-* To me, deep down, it's about Operational Tasks, moving them to a Development process and Mindset. 
-* If you are a Developer, it is about including the Operations Tasks and thinking operationally about the things you deliver.
-* Roles such as Cloud or Platform Engineer, Site Reliability Engineer, and even Software Engineers and IT Operations all play a part in DevOps. 
-
-* I am also one of the organizers for our Orlando DevOps Community Group. Before we get started, I want to thank Mike Buchoff, Dan Crenshaw, Milan Landaverde, Jacob Hiers, and the newest member of our team who you got to meet first, Paulo De Souza.
-* With that, I am stoked to be able to sit down with our guests today and get their perspectives on "Preparing for your next DevOps Role".
-
-* Up First, I would like to welcome Esteban Garcia to the stage!
+NOTES:
+- Make sure they know that they should pick projects they're interested in
 ---
-class: foo, presenter
-## Esteban Garcia - CEO US Xebia
-<img src="https://vslive.com/events/san-diego-2023/Speakers/-/media/ECG/EventSpeakerPhotos/Garcia_Esteban_388.jpg" width="300" align="left" hspace="50">
-<br>
-### Digital Transformation Leader | Cloud & DevOps Expert | Entrepreneur | Speaker
-#### Esteban leads the Xebia Microsoft USA team. With more than 20 years of experience building enterprise software, Esteban has a passion for DevOps and Azure. He mentors, trains, and works closely with teams to help them realize their potential by leveraging Azure and DevOps practices to shorten the cycle time from idea to production. Esteban enjoys working with the software community, he is a Microsoft Regional Director, DevOps MVP, and Pluralsight author. Esteban also has a Bachelor of Science degree in Computer Engineering with an emphasis in software design from the University of Central Florida. Esteban is a huge UCF football fan - Go Knights!
+# Q & A
+
+## Let's get started
+
+https://goodfirstissue.dev/
+
+https://github.com/firstcontributions/first-contributions
+
 ???
-NOTES: Discussing journeys, community and advice for people new to Computer Science.
-
-Welcome Esteban. Little be known, Esteban ran the Orlando DevOps Meetup Group when I first met him. I am incredibly thankful for getting this started for us all. 
-
-Esteban, want to introduce yourself?
-
-* Tell me a little bit about your journey. How did you get to lead Xebia's US Microsoft Practice.
-* When bringing in consultants to help your practice, what do you look for?
-* You have been involved in starting or enhancing many of the Tech communities here including the .net group and our own Orlando DevOps Meetup, tell me why that was important to you.
-* Do you look for community on candidates resumes?
-* Do you encourage your team to participate in community events?
-* What would you suggest to students currently studying CS? What should they do above classwork?
-
-Thank you very much! Let's all give Esteban a hand for taking the time and willing to be first. He does a lot of speaking engagements, so I am sure it was no sweat.
----
+NOTES:
 ---
 class: center
 ## Contributions Stand Up
@@ -240,9 +235,9 @@ class: center
 ???
 NOTES:
 
-It is that time of our night where we will invite all of our guests on stage for you to ask your questions. Let's look at the Q&A. 
+It is that time of our night where we will invite all of our guests on stage for you to ask your questions. Let's look at the Q&A.
 
-While we compile a few of those, let me start off with one that I wanted to ask everyone. 
+While we compile a few of those, let me start off with one that I wanted to ask everyone.
 
 * Where do you think DevOps / Cloud & Platform Engineering / SRE is heading
 * How do you see AI changing the jobs roles?
