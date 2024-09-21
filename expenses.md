@@ -2,7 +2,7 @@
 
 Tracking expenses for if/when we get sponsorship:
 
-| Description                                    | Amount  | purchaser    | Order #       | Order Date    | Ship Date     |
+| Description                                    | Amount  | Purchaser    | Order #       | Order Date    | Ship Date     |
 | ---------------------------------------------- | ------- | ------------ | ------------- | ------------- | --------------|
 | Meetup subscription - Good thru March 16, 2024 | $108.99 | Mike Buchoff | 09A52C0-0020  | Sept 16, 2023 | Sept 16, 2023 |
 | StickerMule Sample stickers                    | $9.63   | Mike Buchoff | R882801175    | Sept 10, 2023 | Sept 14, 2023 |
