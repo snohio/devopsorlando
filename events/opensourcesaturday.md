@@ -19,8 +19,15 @@
 * Types of work
   * Janitorial Work
   * Kernel Contributions
+  * Localization/Translations
+  * Documentation
+  * Bug/Issue reporting, testing, and triaging
+  * UI/Design work
+  * Commiunity Support (forums, IRC, Discord, etc)
 * Roles
   * Contributor
   * Maintainer
 * How to Find a Project
-  * 
+  * Start with projects you already use on a regular basis
+  * GitHub explore page
+
