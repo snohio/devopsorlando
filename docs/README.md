@@ -16,6 +16,7 @@ This code of conduct outlines our expectations for participants within the Orlan
 
 ## Meetup Slide Decks
 
+* What DevOps Means to Me [February 20th, 2025](decks/2025-02-20-what-devosp-means.html)
 * Open Source Saturday [June 22nd, 2024](decks/2024-06-22-open-source-saturday.html)
 * IAC Deep Dive - Terraform / OpenTofu [May 22nd, 2024](decks/2024-05-22-iac-deep-dive-2.html)
 * Preparing for your next DevOps Role on [April 24th, 2024](decks/2024-04-24-get-a-job.html)
