@@ -115,3 +115,4 @@
       apt install apache2
       ```
   - Transfer a container between nodes
+    - Note while migrating that a container gets restarted. Becuase it's set as DHCP, it will have a new IP.
