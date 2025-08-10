@@ -49,6 +49,7 @@
         - 16GB
       - CPU > pick a Type with AES (x86-64-v2), apparently some of the PCs allow this and some don't, so I can't move a VM
       - Memory > 1024MB
+    - Note in Options, there is the Start At Boot option and the Start/Shutdown order option
     - Go into the Console and accept all the defaults EXCEPT install the OpenSSH server
     - Once rebooting and logging in, note that you can SSH into the VM
     - `sudo apt update && sudo apt dist-upgrade`
@@ -94,6 +95,11 @@
     - From client: Cluster > Join > paste, enter password
   - Transfer a VM between nodes
     - Right-click > Migrate
-  - Create a container
   - Create a container template
+    - Local > Container Templates > Templates > Search for Ubuntu > pick one
+  - Create a container
+    - Create CT
+      - Template from above
+      - Network > DHCP
+    - In Options, note the boot options and the Unprivileged Container option
   - Transfer a container between nodes
