@@ -102,4 +102,16 @@
       - Template from above
       - Network > DHCP
     - In Options, note the boot options and the Unprivileged Container option
+    - In the Console, log in as username root
+    - `ip a` to get ip
+    - Try ssh-ing. Fail
+    - ```
+      adduser mbuchoff
+      usermod -aG sudo mbuchoff
+      ```
+    - ssh again as mbuchoff
+    - ```
+      apt update
+      apt install apache2
+      ```
   - Transfer a container between nodes
