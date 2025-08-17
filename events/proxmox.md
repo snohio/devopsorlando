@@ -56,6 +56,8 @@
     - `cat /proc/cpuinfo | grep "model name"` to show this is a virtual CPU
     - No need
       - `sudo apt install qemu-guest-agent` - what does this do???
+        - The agent helps retrieve the guest's IP address, making remote management easier. 
+        - It allows for graceful shutdown of VMs from the host, especially when using a UPS on the host. 
       - `sudo systemctl start qemu-guest-agent.service` and notice it hangs
       - Proxmox > VM > Options > QEMU Guest Agent > Enable
       - restart vm and then you can enable it
