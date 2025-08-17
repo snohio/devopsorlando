@@ -67,6 +67,8 @@
     - Note that `ln -l /var/lib/dbus/machine-id` is a symbolic link to `/etc/machine-id`
     - `sudo truncate -s 0 /etc/machine-id`
     - `sudo apt clean && sudo apt autoremove` What do these do???
+      - `sudo apt clean` - clear the local repository of retrieved package files
+      - `sudo apt autoremove` - remove packages that were automatically installed as dependencies for other packages but are no longer required
     - Can't get this to work
       - `apt search cloud-init` - Help with VM templates. It is supposed to reset the ssh host keys, but it doesn't???
       - `sudo cloud-init clean`
